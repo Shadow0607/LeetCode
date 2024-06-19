@@ -1,0 +1,14 @@
+C:\Users\GP66\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\GP66\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\GP66\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\GP66\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\GP66\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\GP66\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\GP66\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\GP66\Desktop\LeetCode\TwoSums\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\GP66\Desktop\LeetCode\TwoSums\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\GP66\Desktop\LeetCode\TwoSums\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\GP66\Desktop\LeetCode\TwoSums\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\GP66\Desktop\LeetCode\TwoSums\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\GP66\Desktop\LeetCode\TwoSums\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\GP66\Desktop\LeetCode\TwoSums\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
