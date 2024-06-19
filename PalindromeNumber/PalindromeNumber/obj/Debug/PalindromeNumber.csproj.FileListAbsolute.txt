@@ -1,0 +1,7 @@
+C:\Users\GP66\Desktop\LeetCode\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+C:\Users\GP66\Desktop\LeetCode\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+C:\Users\GP66\Desktop\LeetCode\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+C:\Users\GP66\Desktop\LeetCode\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\GP66\Desktop\LeetCode\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\GP66\Desktop\LeetCode\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+C:\Users\GP66\Desktop\LeetCode\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.pdb
